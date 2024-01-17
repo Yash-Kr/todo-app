@@ -1,0 +1,16 @@
+/* --------- Gradient Backgrounds ------------ */
+.gradient-light-bg-01{
+    @apply bg-gradient-to-r from-[#fcdf8a] to-[#f38381];
+  }
+  
+.gradient-light-bg-02{
+    @apply bg-gradient-to-r from-[#aeeadf] to-[#f7f8d8];
+  }
+  
+.gradient-light-bg-03{
+    @apply bg-gradient-to-r from-[#fffeff] to-[#d7fffe];
+  }
+  
+.gradient-light-bg-04{
+    @apply bg-gradient-to-r from-[#ecf0f6] to-[#c9d6e8];
+  }
