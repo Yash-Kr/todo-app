@@ -1,5 +1,4 @@
 import React from "react";
-import { useState } from "react";
 import { CATEGORY } from "../config/constants";
 
 const Categories = ({selectedCategory = CATEGORY.TODO,  onCategoryChange = () =>{}}) => {

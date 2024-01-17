@@ -1,4 +1,4 @@
-import React, { useState, useRef } from "react";
+import React, { useState } from "react";
 import Status from "./Categories";
 import TodoList from "./TodoList";
 import { CATEGORY } from "../config/constants";

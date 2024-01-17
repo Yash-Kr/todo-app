@@ -1,8 +1,5 @@
 import React from 'react'
-import { useState } from 'react'
 import TodoListItem from './TodoListItem'
-import Status from './Categories'
-import { CATEGORY } from '../config/constants'
 
 const TodoList = ({todos = [], onDelete = () => {}, onUpdate = () => {}}) => {
 
